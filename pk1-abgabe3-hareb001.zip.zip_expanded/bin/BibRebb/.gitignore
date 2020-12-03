@@ -1,0 +1,16 @@
+/Artikel.class
+/Autor.class
+/BibEintrag.class
+/BibManager$AutorComparator.class
+/BibManager.class
+/BibManagerArray.class
+/Buch.class
+/CsvExportable.class
+/DoppelterBibEintragException.class
+/EintragComparator.class
+/InvalidEingabException.class
+/Menu$1.class
+/Menu.class
+/Primaerquelle.class
+/Testclass.class
+/Webseite.class
